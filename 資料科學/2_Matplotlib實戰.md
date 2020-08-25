@@ -62,6 +62,9 @@ plt.show()
 ```
 plt.plot(x, y1,'r--',label="line L")
 ```
+```
+https://matplotlib.org/3.3.1/api/_as_gen/matplotlib.pyplot.plot.html
+```
 # [4].MATPLOTLIB
 ```
 官方網址 https://matplotlib.org/
